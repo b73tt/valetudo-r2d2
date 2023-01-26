@@ -1,6 +1,6 @@
 # R2D2 Voice pack for Valetudo
 
-Made for a Dreame D10, not tested with anything else. Use at your own risk.
+Made for a Dreame D9, not tested with anything else. Use at your own risk.
 
 URL: https://github.com/b73tt/valetudo-r2d2/raw/main/voicepack.tar.gz  
 Language Code: R2  
